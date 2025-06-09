@@ -1,0 +1,686 @@
+[
+  {
+    "image": "JPEGImages/2010_002396.jpg",
+    "segmentation": "SegmentationClass/2010_002396.png",
+    "class_ids": [
+      14,
+      15
+    ],
+    "class_names": [
+      "motorbike",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_009684.jpg",
+    "segmentation": "SegmentationClass/2007_009684.png",
+    "class_ids": [
+      15,
+      18
+    ],
+    "class_names": [
+      "person",
+      "sofa"
+    ]
+  },
+  {
+    "image": "JPEGImages/2011_000512.jpg",
+    "segmentation": "SegmentationClass/2011_000512.png",
+    "class_ids": [
+      14
+    ],
+    "class_names": [
+      "motorbike"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_000804.jpg",
+    "segmentation": "SegmentationClass/2007_000804.png",
+    "class_ids": [
+      9,
+      18
+    ],
+    "class_names": [
+      "chair",
+      "sofa"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_003252.jpg",
+    "segmentation": "SegmentationClass/2008_003252.png",
+    "class_ids": [
+      9
+    ],
+    "class_names": [
+      "chair"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_003477.jpg",
+    "segmentation": "SegmentationClass/2008_003477.png",
+    "class_ids": [
+      9,
+      11
+    ],
+    "class_names": [
+      "chair",
+      "diningtable"
+    ]
+  },
+  {
+    "image": "JPEGImages/2009_003105.jpg",
+    "segmentation": "SegmentationClass/2009_003105.png",
+    "class_ids": [
+      19
+    ],
+    "class_names": [
+      "train"
+    ]
+  },
+  {
+    "image": "JPEGImages/2009_001871.jpg",
+    "segmentation": "SegmentationClass/2009_001871.png",
+    "class_ids": [
+      9,
+      11,
+      18
+    ],
+    "class_names": [
+      "chair",
+      "diningtable",
+      "sofa"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_005368.jpg",
+    "segmentation": "SegmentationClass/2007_005368.png",
+    "class_ids": [
+      2,
+      15
+    ],
+    "class_names": [
+      "bicycle",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2011_001350.jpg",
+    "segmentation": "SegmentationClass/2011_001350.png",
+    "class_ids": [
+      17
+    ],
+    "class_names": [
+      "sheep"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_004625.jpg",
+    "segmentation": "SegmentationClass/2010_004625.png",
+    "class_ids": [
+      6,
+      7,
+      15
+    ],
+    "class_names": [
+      "bus",
+      "car",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_001553.jpg",
+    "segmentation": "SegmentationClass/2010_001553.png",
+    "class_ids": [
+      7,
+      14
+    ],
+    "class_names": [
+      "car",
+      "motorbike"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_007021.jpg",
+    "segmentation": "SegmentationClass/2007_007021.png",
+    "class_ids": [
+      5,
+      9,
+      11
+    ],
+    "class_names": [
+      "bottle",
+      "chair",
+      "diningtable"
+    ]
+  },
+  {
+    "image": "JPEGImages/2009_004886.jpg",
+    "segmentation": "SegmentationClass/2009_004886.png",
+    "class_ids": [
+      3
+    ],
+    "class_names": [
+      "bird"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_001030.jpg",
+    "segmentation": "SegmentationClass/2008_001030.png",
+    "class_ids": [
+      18
+    ],
+    "class_names": [
+      "sofa"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_002088.jpg",
+    "segmentation": "SegmentationClass/2007_002088.png",
+    "class_ids": [
+      10
+    ],
+    "class_names": [
+      "cow"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_003813.jpg",
+    "segmentation": "SegmentationClass/2010_003813.png",
+    "class_ids": [
+      7
+    ],
+    "class_names": [
+      "car"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_000009.jpg",
+    "segmentation": "SegmentationClass/2008_000009.png",
+    "class_ids": [
+      10
+    ],
+    "class_names": [
+      "cow"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_002070.jpg",
+    "segmentation": "SegmentationClass/2010_002070.png",
+    "class_ids": [
+      9,
+      11,
+      15
+    ],
+    "class_names": [
+      "chair",
+      "diningtable",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_001225.jpg",
+    "segmentation": "SegmentationClass/2007_001225.png",
+    "class_ids": [
+      12
+    ],
+    "class_names": [
+      "dog"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_006349.jpg",
+    "segmentation": "SegmentationClass/2008_006349.png",
+    "class_ids": [
+      4
+    ],
+    "class_names": [
+      "boat"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_007007.jpg",
+    "segmentation": "SegmentationClass/2007_007007.png",
+    "class_ids": [
+      5,
+      11,
+      15
+    ],
+    "class_names": [
+      "bottle",
+      "diningtable",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_004900.jpg",
+    "segmentation": "SegmentationClass/2010_004900.png",
+    "class_ids": [
+      12
+    ],
+    "class_names": [
+      "dog"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_009088.jpg",
+    "segmentation": "SegmentationClass/2007_009088.png",
+    "class_ids": [
+      3
+    ],
+    "class_names": [
+      "bird"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_006254.jpg",
+    "segmentation": "SegmentationClass/2008_006254.png",
+    "class_ids": [
+      2,
+      7,
+      15
+    ],
+    "class_names": [
+      "bicycle",
+      "car",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_000673.jpg",
+    "segmentation": "SegmentationClass/2008_000673.png",
+    "class_ids": [
+      9,
+      15
+    ],
+    "class_names": [
+      "chair",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_002719.jpg",
+    "segmentation": "SegmentationClass/2008_002719.png",
+    "class_ids": [
+      1
+    ],
+    "class_names": [
+      "aeroplane"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_008140.jpg",
+    "segmentation": "SegmentationClass/2007_008140.png",
+    "class_ids": [
+      16
+    ],
+    "class_names": [
+      "pottedplant"
+    ]
+  },
+  {
+    "image": "JPEGImages/2009_003269.jpg",
+    "segmentation": "SegmentationClass/2009_003269.png",
+    "class_ids": [
+      5,
+      7,
+      15
+    ],
+    "class_names": [
+      "bottle",
+      "car",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_007398.jpg",
+    "segmentation": "SegmentationClass/2007_007398.png",
+    "class_ids": [
+      6,
+      15
+    ],
+    "class_names": [
+      "bus",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_000033.jpg",
+    "segmentation": "SegmentationClass/2008_000033.png",
+    "class_ids": [
+      1
+    ],
+    "class_names": [
+      "aeroplane"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_002643.jpg",
+    "segmentation": "SegmentationClass/2007_002643.png",
+    "class_ids": [
+      7,
+      14,
+      15
+    ],
+    "class_names": [
+      "car",
+      "motorbike",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_006920.jpg",
+    "segmentation": "SegmentationClass/2008_006920.png",
+    "class_ids": [
+      1
+    ],
+    "class_names": [
+      "aeroplane"
+    ]
+  },
+  {
+    "image": "JPEGImages/2009_003640.jpg",
+    "segmentation": "SegmentationClass/2009_003640.png",
+    "class_ids": [
+      3
+    ],
+    "class_names": [
+      "bird"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_006063.jpg",
+    "segmentation": "SegmentationClass/2008_006063.png",
+    "class_ids": [
+      10
+    ],
+    "class_names": [
+      "cow"
+    ]
+  },
+  {
+    "image": "JPEGImages/2011_001139.jpg",
+    "segmentation": "SegmentationClass/2011_001139.png",
+    "class_ids": [
+      3,
+      9,
+      11
+    ],
+    "class_names": [
+      "bird",
+      "chair",
+      "diningtable"
+    ]
+  },
+  {
+    "image": "JPEGImages/2011_002951.jpg",
+    "segmentation": "SegmentationClass/2011_002951.png",
+    "class_ids": [
+      13
+    ],
+    "class_names": [
+      "horse"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_002972.jpg",
+    "segmentation": "SegmentationClass/2008_002972.png",
+    "class_ids": [
+      14
+    ],
+    "class_names": [
+      "motorbike"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_009788.jpg",
+    "segmentation": "SegmentationClass/2007_009788.png",
+    "class_ids": [
+      2,
+      20
+    ],
+    "class_names": [
+      "bicycle",
+      "tvmonitor"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_002203.jpg",
+    "segmentation": "SegmentationClass/2010_002203.png",
+    "class_ids": [
+      6
+    ],
+    "class_names": [
+      "bus"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_000121.jpg",
+    "segmentation": "SegmentationClass/2007_000121.png",
+    "class_ids": [
+      20
+    ],
+    "class_names": [
+      "tvmonitor"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_001418.jpg",
+    "segmentation": "SegmentationClass/2010_001418.png",
+    "class_ids": [
+      5,
+      8,
+      15
+    ],
+    "class_names": [
+      "bottle",
+      "cat",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_001579.jpg",
+    "segmentation": "SegmentationClass/2010_001579.png",
+    "class_ids": [
+      9,
+      11,
+      15
+    ],
+    "class_names": [
+      "chair",
+      "diningtable",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_001895.jpg",
+    "segmentation": "SegmentationClass/2008_001895.png",
+    "class_ids": [
+      12,
+      15
+    ],
+    "class_names": [
+      "dog",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_000364.jpg",
+    "segmentation": "SegmentationClass/2007_000364.png",
+    "class_ids": [
+      14,
+      15
+    ],
+    "class_names": [
+      "motorbike",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_007797.jpg",
+    "segmentation": "SegmentationClass/2008_007797.png",
+    "class_ids": [
+      6
+    ],
+    "class_names": [
+      "bus"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_007878.jpg",
+    "segmentation": "SegmentationClass/2007_007878.png",
+    "class_ids": [
+      8,
+      15
+    ],
+    "class_names": [
+      "cat",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_002681.jpg",
+    "segmentation": "SegmentationClass/2008_002681.png",
+    "class_ids": [
+      8
+    ],
+    "class_names": [
+      "cat"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_007498.jpg",
+    "segmentation": "SegmentationClass/2007_007498.png",
+    "class_ids": [
+      11,
+      15
+    ],
+    "class_names": [
+      "diningtable",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_002210.jpg",
+    "segmentation": "SegmentationClass/2008_002210.png",
+    "class_ids": [
+      11,
+      15
+    ],
+    "class_names": [
+      "diningtable",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_006325.jpg",
+    "segmentation": "SegmentationClass/2008_006325.png",
+    "class_ids": [
+      8
+    ],
+    "class_names": [
+      "cat"
+    ]
+  },
+  {
+    "image": "JPEGImages/2009_000998.jpg",
+    "segmentation": "SegmentationClass/2009_000998.png",
+    "class_ids": [
+      3
+    ],
+    "class_names": [
+      "bird"
+    ]
+  },
+  {
+    "image": "JPEGImages/2011_000895.jpg",
+    "segmentation": "SegmentationClass/2011_000895.png",
+    "class_ids": [
+      19
+    ],
+    "class_names": [
+      "train"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_006481.jpg",
+    "segmentation": "SegmentationClass/2008_006481.png",
+    "class_ids": [
+      3,
+      4
+    ],
+    "class_names": [
+      "bird",
+      "boat"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_006035.jpg",
+    "segmentation": "SegmentationClass/2007_006035.png",
+    "class_ids": [
+      7
+    ],
+    "class_names": [
+      "car"
+    ]
+  },
+  {
+    "image": "JPEGImages/2008_006289.jpg",
+    "segmentation": "SegmentationClass/2008_006289.png",
+    "class_ids": [
+      4,
+      15
+    ],
+    "class_names": [
+      "boat",
+      "person"
+    ]
+  },
+  {
+    "image": "JPEGImages/2009_002820.jpg",
+    "segmentation": "SegmentationClass/2009_002820.png",
+    "class_ids": [
+      3,
+      20
+    ],
+    "class_names": [
+      "bird",
+      "tvmonitor"
+    ]
+  },
+  {
+    "image": "JPEGImages/2007_000676.jpg",
+    "segmentation": "SegmentationClass/2007_000676.png",
+    "class_ids": [
+      17
+    ],
+    "class_names": [
+      "sheep"
+    ]
+  },
+  {
+    "image": "JPEGImages/2009_004426.jpg",
+    "segmentation": "SegmentationClass/2009_004426.png",
+    "class_ids": [
+      9,
+      11,
+      16,
+      18
+    ],
+    "class_names": [
+      "chair",
+      "diningtable",
+      "pottedplant",
+      "sofa"
+    ]
+  },
+  {
+    "image": "JPEGImages/2010_001773.jpg",
+    "segmentation": "SegmentationClass/2010_001773.png",
+    "class_ids": [
+      16
+    ],
+    "class_names": [
+      "pottedplant"
+    ]
+  }
+]
