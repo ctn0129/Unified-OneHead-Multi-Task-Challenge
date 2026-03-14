@@ -194,27 +194,27 @@ Based on a complete training run, here are the achieved performance metrics:
 
 ### Stage-wise Performance Progression
 
-| Stage | mIoU (%) | mAP (%) | Top-1 (%) | Status |
-|-------|----------|---------|-----------|---------|
-| **Stage 1**: VOC Segmentation | 22.08 | 24.98 | 0.00 | ✓ Baseline |
-| **Stage 2**: COCO Detection | 20.94 | 83.40 | 0.00 | ✓ Minimal forgetting |
-| **Stage 3**: ImageNet Classification | 20.47 | 78.94 | 100.00 | ✓ All tasks learned |
-| **Final Results** | 20.47 | 78.94 | 100.00 | ✓ **Success** |
+| Stage | mIoU (%) | mAP (%) | Top-1 (%) |
+|-------|----------|---------|-----------|
+| **Stage 1**: VOC Segmentation | 22.08 | 24.98 | 0.00 |
+| **Stage 2**: COCO Detection | 20.94 | 83.40 | 0.00 |
+| **Stage 3**: ImageNet Classification | 20.47 | 78.94 | 100.00 |
+| **Final Results** | 20.47 | 78.94 | 100.00 |
 
 ### Performance Analysis
 
 **Final Performance vs. Baselines:**
-- **VOC mIoU**: 20.47% (baseline: 22.08%, change: -1.61%) ✓
-- **COCO mAP**: 78.94% (baseline: 83.40%, change: -4.47%) ✓  
-- **ImageNet Top-1**: 100.00% (baseline: 100.00%, change: +0.00%) ✓
+- **VOC mIoU**: 20.47% (baseline: 22.08%, change: -1.61%) 
+- **COCO mAP**: 78.94% (baseline: 83.40%, change: -4.47%)   
+- **ImageNet Top-1**: 100.00% (baseline: 100.00%, change: +0.00%) 
 
 ### Success Criteria Validation
 
-| Metric | Target (≥ Baseline - 5%) | Achieved | Status |
-|--------|-------------------------|----------|---------|
-| mIoU | ≥ 17.08% | 20.47% | ✓ **Passed** |
-| mAP | ≥ 78.40% | 78.94% | ✓ **Passed** |
-| Top-1 | ≥ 95.00% | 100.00% | ✓ **Passed** |
+| Metric | Target (≥ Baseline - 5%) | Achieved |
+|--------|-------------------------|----------|
+| mIoU | ≥ 17.08% | 20.47% |
+| mAP | ≥ 78.40% | 78.94% |
+| Top-1 | ≥ 95.00% | 100.00% |
 
 **Overall Result: ✓ PASSED** - All forgetting criteria satisfied!
 
